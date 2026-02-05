@@ -5,7 +5,7 @@ export const profile = {
   title: 'Front End Developer',
   summary: `Passionate Front End Developer with a strong foundation in building dynamic and responsive web applications using React and its ecosystem. Skilled in translating UI/UX designs into high-quality code and continuously seeking to expand my knowledge of new technologies.`,
   location: 'Yangon, Myanmar',
-  email: 'quix@quix-dev.online',
+  email: 'kaungmyatsoe2k21@gmail.com',
   phone: '+959761723325',
   resumeUrl: '/Kaung_Myat_Soe_Front_End_Developer.pdf',
   social: {
