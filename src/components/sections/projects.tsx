@@ -21,6 +21,7 @@ export default function Projects() {
         </div>
         <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
           {projects.map((project, index) => {
+            console.log(project,PlaceHolderImages)
             const placeholder = PlaceHolderImages.find(p => p.id === project.imageUrl);
             return (
               <Card key={project.title} className="flex flex-col overflow-hidden animate-in fade-in-0 zoom-in-95 duration-500" style={{ animationDelay: `${index * 100}ms` }}>

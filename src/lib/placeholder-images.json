@@ -1,21 +1,21 @@
 {
   "placeholderImages": [
     {
-      "id": "project-ecommerce",
-      "description": "A modern e-commerce website interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlY29tbWVyY2UlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAyNzU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "project-social",
+      "description": "A social website interface.",
+      "imageUrl": "/social.png",
       "imageHint": "ecommerce shopping"
     },
     {
       "id": "project-movie-app",
       "description": "A movie browsing application interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1714623297943-ed0ce65eb06a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb3ZpZSUyMHN0cmVhbXxlbnwwfHx8fDE3NzAyNzU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/movie.png",
       "imageHint": "movie stream"
     },
     {
-      "id": "project-hoobank",
-      "description": "A sleek landing page for a modern bank.",
-      "imageUrl": "https://images.unsplash.com/photo-1763038311036-6d18805537e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaW5hbmNlJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc3MDE4NTI3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "project-figma-plugin",
+      "description": "A figma plugin that convert figma frame to function component.",
+      "imageUrl": "/figma.png",
       "imageHint": "finance dashboard"
     }
   ]
